@@ -1,0 +1,1 @@
+C:\Users\john\VisualStudio\m1-csharp-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe.config
