@@ -1,4 +1,5 @@
 C:\Users\john\VisualStudio\m1-csharp-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe.config
+<<<<<<< HEAD
 C:\Users\aobiedat\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe.config
 C:\Users\aobiedat\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\obj\Debug\DeclarationStatements.csprojResolveAssemblyReference.cache
 C:\Users\aobiedat\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe
@@ -8,3 +9,11 @@ C:\Users\aobiedat\c-lectures\m1-w1d2-variables-and-datatypes-lecture\Declaration
 C:\Users\aobiedat\TechElevator\.NET_bootCamp\week1\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe.config
 C:\Users\aobiedat\TechElevator\.NET_bootCamp\week1\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\obj\Debug\DeclarationStatements.exe
 C:\Users\aobiedat\TechElevator\.NET_bootCamp\week1\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\obj\Debug\DeclarationStatements.pdb
+=======
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe.config
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.exe
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\bin\Debug\DeclarationStatements.pdb
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\obj\Debug\DeclarationStatements.csprojResolveAssemblyReference.cache
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\obj\Debug\DeclarationStatements.exe
+C:\Users\john\c-lectures\m1-w1d2-variables-and-datatypes-lecture\DeclarationStatements\obj\Debug\DeclarationStatements.pdb
+>>>>>>> 22dca6eee95adf1da0ebbf8b8645041a6af7c943
