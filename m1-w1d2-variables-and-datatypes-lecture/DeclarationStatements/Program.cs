@@ -58,9 +58,13 @@ namespace DeclarationStatements
             // declaring a char variable
             char hyphenChar = '-';
 
-
-
-
+            //int ss = 6;
+            //byte yy = (byte)ss;
+            /// Console.WriteLine(yy + "here");
+            /** dfsdlkdfkdfd
+             * 
+             * 
+             * **/
             // USING STRING LITERALS
             // ----------------------------------
             // String literals appear between double quotes
