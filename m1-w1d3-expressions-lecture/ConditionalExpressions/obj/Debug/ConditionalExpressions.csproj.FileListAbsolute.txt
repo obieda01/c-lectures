@@ -1,0 +1,5 @@
+C:\Users\aobiedat\TechElevator\.NET_bootCamp\week1\c-lectures\m1-w1d3-expressions-lecture\ConditionalExpressions\bin\Debug\ConditionalExpressions.exe.config
+C:\Users\aobiedat\TechElevator\.NET_bootCamp\week1\c-lectures\m1-w1d3-expressions-lecture\ConditionalExpressions\bin\Debug\ConditionalExpressions.exe
+C:\Users\aobiedat\TechElevator\.NET_bootCamp\week1\c-lectures\m1-w1d3-expressions-lecture\ConditionalExpressions\bin\Debug\ConditionalExpressions.pdb
+C:\Users\aobiedat\TechElevator\.NET_bootCamp\week1\c-lectures\m1-w1d3-expressions-lecture\ConditionalExpressions\obj\Debug\ConditionalExpressions.exe
+C:\Users\aobiedat\TechElevator\.NET_bootCamp\week1\c-lectures\m1-w1d3-expressions-lecture\ConditionalExpressions\obj\Debug\ConditionalExpressions.pdb
