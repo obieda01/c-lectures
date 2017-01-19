@@ -72,16 +72,16 @@ namespace DeclarationStatements
             string fullName = firstName + " " + lastName;
 
             //Printing it out to the screen
-            Console.WriteLine(firstName);
+            /* console.WriteLine(firstName);
             Console.WriteLine(lastName);
-            Console.WriteLine(fullName);
+            Console.WriteLine(fullName); */
 
 
 
             //// **********************
             //// ARITHMETIC OPERATORS
             //// **********************
-            //int a = 12;
+            int a = 12;
             //Console.WriteLine("What happens to b?");
             //int b = a + 3;  // ADDITION
             //Console.WriteLine(b);
