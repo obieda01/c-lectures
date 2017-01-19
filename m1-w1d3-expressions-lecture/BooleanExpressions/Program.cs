@@ -146,7 +146,7 @@ namespace BooleanExpressions
             result = !(value >= 300);
             Console.WriteLine("!(value >= 300) : " + result);
 
-
+            Console.ReadKey();
 
             
         }
