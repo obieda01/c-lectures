@@ -26,7 +26,7 @@ namespace DictionaryCollection
             dictionary.Add("a", 1);
             dictionary.Add("fair", 4);
             dictionary.Add("bet", 1);
-
+            
             // Values can also be added by using the index approach using square brackets []
             // dictionary[key] = value
             dictionary["that"] = 2;
