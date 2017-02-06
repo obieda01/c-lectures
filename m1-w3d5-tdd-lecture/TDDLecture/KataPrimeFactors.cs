@@ -22,5 +22,21 @@ namespace TDDLecture
     //24 -> returns [2, 2, 2, 3]
     public class KataPrimeFactors
     {
+        public List<int> Factorize(int value)
+        {
+            return new List<int>();
+
+
+        }
+
+        public bool isPrime(int n)
+        {
+            for (int i = 2; i * i <= n; i++)
+            {
+                if (n % i == 0) return false;
+            }
+            return true;
+        }
+
     }
 }
