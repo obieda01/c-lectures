@@ -43,7 +43,7 @@ namespace Lecture.Aids
                         // Print it to the screen
                         Console.WriteLine(line);
                     }
-                }
+                
             }
             catch(IOException e) //catch a specific type of Exception
             {
