@@ -11,11 +11,11 @@ namespace Lecture
     {
         static void Main(string[] args)
         {
-            WritingTextFiles.WritingAFile();
+          //  WritingTextFiles.WritingAFile();
             //LoopingCollectionToWriteFile.LoopingADictionaryToWriteAFile();
             //BinaryFileWriter.WritePrimitiveValues();
             //BinaryFileWriter.ReadPrimitiveValues();
-            //BinaryImageManipulator.ReadFileIn();
+            BinaryImageManipulator.ReadFileIn();
         }
     }
 }

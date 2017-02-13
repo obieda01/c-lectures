@@ -47,7 +47,7 @@ namespace Lecture.Aids
                     // https://msdn.microsoft.com/en-us/library/dn961160.aspx
                     sw.WriteLine($"{kvp.Key} is an IEEE top 10 langauge with a spectrum ranking of {kvp.Value}");
                 }
-
+             //   KeyValuePair<string,double> kvp=
                 //The using statement up above automatically flushes and closes the stream
                 //when we are done writing to the file.
             }
