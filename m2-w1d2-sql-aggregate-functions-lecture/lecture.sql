@@ -1,7 +1,7 @@
 -- ORDERING RESULTS
 
 -- Populations of all countries in descending order
-SELECT name, population FROM country ORDER BY population DESC 
+SELECT name, population FROM country ORDER BY population DESC
 
 --Names of countries and continents in ascending order
 SELECT name, continent FROM country ORDER BY continent ASC, name ASC
@@ -9,19 +9,19 @@ SELECT name, continent FROM country ORDER BY continent ASC, name ASC
 -- LIMITING RESULTS
 -- The name and average life expectancy of the countries with the 10 highest life expectancies.
 
-SELECT TOP 10 name, lifeexpectancy 
-FROM country 
-WHERE lifeexpectancy IS NOT NULL 
+SELECT TOP 10 name, lifeexpectancy
+FROM country
+WHERE lifeexpectancy IS NOT NULL
 ORDER BY lifeexpectancy DESC;
 
 -- CONCATENATING OUTPUTS
 
--- The name & state of all cities in California, Oregon, or Washington. 
+-- The name & state of all cities in California, Oregon, or Washington.
 -- "city, state", sorted by state then city
 
-SELECT (name + ', ' + district) as name_and_state 
-FROM city 
-WHERE district='California' OR district='Oregon' OR district='Washington' 
+SELECT (name + ', ' + district) as name_and_state
+FROM city
+WHERE district='California' OR district='Oregon' OR district='Washington'
 ORDER BY district, name;
 
 -- AGGREGATE FUNCTIONS
