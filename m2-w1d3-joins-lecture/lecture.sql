@@ -90,6 +90,7 @@ select first_name from customer order by first_name;
 
 
 -- Gather the list, but this time note the source table with 'A' for actor and 'C' for customer
+
 select first_name, 'A' as source from actor
 union
 select first_name, 'C' as source from customer order by first_name;
