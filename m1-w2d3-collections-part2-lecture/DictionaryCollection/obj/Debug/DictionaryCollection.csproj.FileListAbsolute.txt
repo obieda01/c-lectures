@@ -1,0 +1,6 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w2d3-collections-part2-lecture\DictionaryCollection\bin\Debug\DictionaryCollection.exe.config
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w2d3-collections-part2-lecture\DictionaryCollection\bin\Debug\DictionaryCollection.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w2d3-collections-part2-lecture\DictionaryCollection\bin\Debug\DictionaryCollection.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w2d3-collections-part2-lecture\DictionaryCollection\obj\Debug\DictionaryCollection.csprojResolveAssemblyReference.cache
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w2d3-collections-part2-lecture\DictionaryCollection\obj\Debug\DictionaryCollection.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w2d3-collections-part2-lecture\DictionaryCollection\obj\Debug\DictionaryCollection.pdb

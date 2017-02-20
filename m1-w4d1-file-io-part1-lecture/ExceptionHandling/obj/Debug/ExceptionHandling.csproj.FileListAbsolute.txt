@@ -1,0 +1,5 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w4d1-file-io-part1-lecture\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

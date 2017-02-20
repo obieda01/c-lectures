@@ -1,0 +1,5 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w3d5-tdd-lecture\TDDLecture\bin\Debug\TDDLecture.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w3d5-tdd-lecture\TDDLecture\bin\Debug\TDDLecture.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w3d5-tdd-lecture\TDDLecture\obj\Debug\TDDLecture.csprojResolveAssemblyReference.cache
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w3d5-tdd-lecture\TDDLecture\obj\Debug\TDDLecture.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m1-w3d5-tdd-lecture\TDDLecture\obj\Debug\TDDLecture.pdb
