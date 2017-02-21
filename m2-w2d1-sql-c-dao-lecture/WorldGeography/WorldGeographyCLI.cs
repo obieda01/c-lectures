@@ -18,7 +18,10 @@ namespace WorldGeography
         const string Command_RemoveLanguage = "6";
         const string Command_Quit = "q";
         // const string DatabaseConnectionString = @"Data Source = DESKTOP - QSBFLBV; Initial Catalog = example; Integrated Security = True";
-        const string DatabaseConnectionString = @"Data Source=DESKTOP-QSBFLBV;Initial Catalog=example;User ID=student;Password=student";
+        //const string DatabaseConnectionString = @"Data Source=DESKTOP-QSBFLBV;Initial Catalog=example;User ID=student;Password=student";
+
+        const string DatabaseConnectionString = @"Data Source=DESKTOP-U3MOBAH\SQLEXPRESS;Initial Catalog=example;Persist Security Info=True;User ID=student;Password=student";
+
         public void RunCLI()
         {
             PrintHeader();

@@ -1,0 +1,3 @@
+Data Source=DESKTOP-U3MOBAH\SQLEXPRESS;Initial Catalog=example;Integrated Security=True
+
+Data Source=DESKTOP-U3MOBAH\SQLEXPRESS;Initial Catalog=example;Persist Security Info=True;User ID=student;Password=student
