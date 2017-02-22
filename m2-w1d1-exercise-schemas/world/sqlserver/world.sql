@@ -1,3 +1,4 @@
+
 BEGIN TRANSACTION;
 
 CREATE TABLE country (

@@ -1,0 +1,8 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d2-sql-c-integration-testing-lecture\WorldGeography.Tests\bin\Debug\WorldGeography.Tests.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d2-sql-c-integration-testing-lecture\WorldGeography.Tests\bin\Debug\WorldGeography.Tests.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d2-sql-c-integration-testing-lecture\WorldGeography.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d2-sql-c-integration-testing-lecture\WorldGeography.Tests\bin\Debug\WorldGeography.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d2-sql-c-integration-testing-lecture\WorldGeography.Tests\bin\Debug\WorldGeography.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d2-sql-c-integration-testing-lecture\WorldGeography.Tests\obj\Debug\WorldGeography.Tests.csprojResolveAssemblyReference.cache
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d2-sql-c-integration-testing-lecture\WorldGeography.Tests\obj\Debug\WorldGeography.Tests.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d2-sql-c-integration-testing-lecture\WorldGeography.Tests\obj\Debug\WorldGeography.Tests.pdb
