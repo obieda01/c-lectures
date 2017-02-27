@@ -95,7 +95,7 @@ namespace Capstone.Classes
             }
 
             // Create a copy of the item and return it
-            return new VendingMachineItem(inventory[slotId].ItemName, inventory[slotId].PriceInCents, inventory[slotId].QuantityRemaining);
+            return new  VendingMachineItem(inventory[slotId].ItemName, inventory[slotId].PriceInCents, inventory[slotId].QuantityRemaining);
         }
 
 
