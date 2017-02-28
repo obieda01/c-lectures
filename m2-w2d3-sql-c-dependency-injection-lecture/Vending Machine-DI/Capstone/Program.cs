@@ -14,10 +14,22 @@ namespace Capstone
         static void Main(string[] args)
         {
             // Instantiate the dependencies
-            IInventorySource inventorySource = new InventoryFileDAL("vendingmachine.csv");
-            ITransactionLogger transactionLogger = new TransactionFileLog("transactions.txt");
+            IInventorySource inventorySource;
+            ITransactionLogger transactionLogger;
 
-            // IInventorySource inventorySource = new InventorySqlDAL("connectionstring");
+            bool value = true;
+
+            if (value)
+            {
+                inventorySource = new InventoryFileDAL("vendingmachine.csv");
+                transactionLogger = new TransactionFileLog("transactions.txt");
+            }
+            else
+            {
+                inventorySource = new InventorySqlDAL("connection string");
+                transactionLogger = new TransactionFileSqlLog("connection stringt");
+            }
+
 
             VendingMachine vm;
 
