@@ -13,7 +13,7 @@ p {
 .box {
   padding: 50px;
   padding-left: 100px;
-  width: 100px;
+  width: 50px;
 }
 #box_1_1, #box_2_1, #box_3_1 {
   background: #ee3e64;
@@ -33,7 +33,7 @@ p {
   position: relative;
 }
 #box_3_2 {
-  position: absolute;;
+  position: absolute;
   top: 100px;
   left: 300px;
 }
@@ -41,5 +41,5 @@ p {
   position: fixed;
   top: 0;
   right: 0;
-  font-size: 36px;
+  font-size: 10px;
 }
