@@ -39,6 +39,22 @@ namespace WebApplication3.Controllers
             return View(person);
         }
 
+        // GET /Home/HelpersPRG/
+        public ActionResult HelpersPRG()
+        {
+            ViewBag.Message = "HelpersPRG page.";
+            Person person = GetPerson();
+            return View(person);
+        }
+
+        // GET /Home/HelpersCompletePRG/
+        public ActionResult HelpersCompletePRG()
+        {
+            ViewBag.Message = "HelpersCompletePRG page.";
+           
+            return View();
+        }
+
         // POST /Home/HelpersUpdate
         [HttpPost]
         public ActionResult HelpersUpdate()
@@ -73,6 +89,50 @@ namespace WebApplication3.Controllers
 
             return View("Helpers", person);
         }
+
+
+        // POST /Home/HelpersUpdatePRG
+        [HttpPost]
+        public ActionResult HelpersUpdatePRG()
+        {
+            ViewBag.Message = "Helper page.";
+            Person person = new Models.Person();
+            person.FirstName = Request.Params["First"];
+            person.LastName = Request.Params["Last"];
+
+            if (Request["Driver"] != null)
+            {
+                string result = Request["Driver"];
+                if (result.Contains("true"))
+                {
+                    person.LicensedDriver = true;
+                }
+            }
+
+            if (Request["FavoriteColor"] != null)
+            {
+                string result = Request["FavoriteColor"];
+                person.FavoriteColor = result;
+            }
+            else
+            {
+                person.FavoriteColor = "Red";
+            }
+
+            person.BirthYear = int.Parse(Request.Params["Birth"]);
+
+            person.ResidenceState = Request.Params["ResidenceState"];
+
+
+            //here
+            if (ModelState.IsValid)
+            {
+                return RedirectToAction("HelpersCompletePRG");
+            }
+            
+            return View("HelpersPRG", person);
+        }
+
 
         // GET Home/Input/
         [HttpGet]
