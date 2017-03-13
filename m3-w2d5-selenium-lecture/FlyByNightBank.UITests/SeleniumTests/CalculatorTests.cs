@@ -38,7 +38,7 @@ namespace FlyByNightBank.UITests.SeleniumTests
             CompoundInterestResultPage resultPage = entryPage.FillOutForm(10000.00, "1.0%", LoanYears.ThreeYears);
 
             Assert.AreEqual("$10,000.00", resultPage.Principal.Text);
-            Assert.AreEqual("1.0%", resultPage.InterestRate.Text);
+            Assert.AreEqual("2.0%", resultPage.InterestRate.Text);
             Assert.AreEqual("3 years", resultPage.Term.Text);
             Assert.AreEqual("$10,303.01", resultPage.AmountSaved.Text);
         }
