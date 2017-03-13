@@ -9,26 +9,24 @@
 
 @using (Html.BeginForm("Register", "User", FormMethod.Post))
 {
-
     <div class="formValidationGroup">
-        @Html.LabelFor(Model => Model.FirstName)
-        @Html.TextBoxFor(Model => Model.FirstName, new { placeholder = "(e.g. John, Josh, etc.)" })
-        @Html.ValidationMessageFor(Model => Model.FirstName)
+        @Html.LabelFor(m => m.FirstName)
+        @Html.TextBoxFor(m => m.FirstName)
+        @Html.ValidationMessageFor(m => m.FirstName)
     </div>
     <div class="formValidationGroup">
         @Html.LabelFor(m => m.LastName)
         @Html.TextBoxFor(m => m.LastName)
         @Html.ValidationMessageFor(m => m.LastName)
-        @Html.ValidationMessage("SameFirstLast")
     </div>
     <div class="formValidationGroup">
         @Html.LabelFor(m => m.Email)
-        @Html.TextBoxFor(m => m.Email)
+        @Html.EditorFor(m => m.Email)
         @Html.ValidationMessageFor(m => m.Email)
     </div>
     <div class="formValidationGroup">
         @Html.LabelFor(m => m.Password)
-        @Html.PasswordFor(m => m.Password)        
+        @Html.PasswordFor(m => m.Password)
         @Html.ValidationMessageFor(m => m.Password)
     </div>
     <div class="formValidationGroup">
