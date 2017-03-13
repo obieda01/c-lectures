@@ -8,17 +8,19 @@ namespace FlyByNightBank.Web.Models
 {
     public class User
     {
-        [Required(ErrorMessage = "Sorry, first name is required, don't be anonymous")]
+        [Required]
         public string FirstName { get; set; }
 
-        [Required(ErrorMessage = "*")]
-        [StringLength(100, MinimumLength = 2, ErrorMessage = "Last name must be between 2 and 100 characters")]
+        [Required]
         public string LastName { get; set; }
-        
-        [EmailAddress]
+
+        [Required]
+        [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
 
         [Required]
+        [MinLength(8, ErrorMessage = "Password must be 8 characters or more")]
+        [DataType(DataType.Password)]
         public string Password { get; set; }
 
         [Compare("Password")]
@@ -29,8 +31,7 @@ namespace FlyByNightBank.Web.Models
         public DateTime Birthday { get; set; }
 
         [Required]
-        [DataType(DataType.PhoneNumber, ErrorMessage = "Not a valid phone number")]
+        [DataType(DataType.PhoneNumber)]
         public string Phone { get; set; }
-
     }
 }
