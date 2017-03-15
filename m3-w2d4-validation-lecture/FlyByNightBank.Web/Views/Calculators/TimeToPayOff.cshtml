@@ -3,7 +3,7 @@
     ViewBag.Title = "Credit Card Payoff Calculator";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-
+@using System.Linq
 <h2>Credit Card Payoff Calculator</h2>
 
 @using (Html.BeginForm("TimeToPayOffResult", "Calculators", FormMethod.Get))

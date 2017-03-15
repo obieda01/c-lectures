@@ -1,0 +1,12 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\bin\Debug\FlyByNightBank.UITests.dll.config
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\bin\Debug\FlyByNightBank.UITests.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\bin\Debug\FlyByNightBank.UITests.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\bin\Debug\WebDriver.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\bin\Debug\WebDriver.Support.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\bin\Debug\WebDriver.xml
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\bin\Debug\WebDriver.Support.xml
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\obj\Debug\FlyByNightBank.UITests.csprojResolveAssemblyReference.cache
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\obj\Debug\FlyByNightBank.UITests.dll
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w3d1-cucumber-lecture\FlyByNightBank.UITests\obj\Debug\FlyByNightBank.UITests.pdb
