@@ -79,6 +79,6 @@ C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w2d4-validation-l
 C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w2d4-validation-lecture\FlyByNightBank.Web\bin\System.Web.Webpages.Razor.xml
 C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w2d4-validation-lecture\FlyByNightBank.Web\bin\System.Web.Helpers.xml
 C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w2d4-validation-lecture\FlyByNightBank.Web\bin\System.Web.Mvc.xml
-C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w2d4-validation-lecture\FlyByNightBank.Web\obj\Debug\FlyByNightBank.Web.csprojResolveAssemblyReference.cache
 C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w2d4-validation-lecture\FlyByNightBank.Web\obj\Debug\FlyByNightBank.Web.dll
 C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w2d4-validation-lecture\FlyByNightBank.Web\obj\Debug\FlyByNightBank.Web.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m3-w2d4-validation-lecture\FlyByNightBank.Web\obj\Debug\FlyByNightBank.Web.csprojResolveAssemblyReference.cache
