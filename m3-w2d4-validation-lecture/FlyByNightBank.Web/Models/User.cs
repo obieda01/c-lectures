@@ -31,6 +31,5 @@ namespace FlyByNightBank.Web.Models
         [Required]
         [DataType(DataType.PhoneNumber, ErrorMessage = "Not a valid phone number")]
         public string Phone { get; set; }
-
     }
 }
