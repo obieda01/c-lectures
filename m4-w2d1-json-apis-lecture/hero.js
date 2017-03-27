@@ -14,7 +14,7 @@ $(document).ready(function () {
 
     $("#nerdButton").on("click", function (event) {
         $.ajax({
-            url: "http://api.icndb.com/jokes/random?exclude=explicit&limitTo=nerdy",
+            url: "http://ap.icndb.com/jokes/random?exclude=explicit&limitTo=nerdy",
             type: "GET",
             dataType: "json"
         }).done(function (data) {
