@@ -27,6 +27,7 @@
                     success: function (response) {
                         alert("Hello: " + response.Name + " .\nCurrent Date and Time: " + response.DateTime
                             + " from computer " + response.System);
+                        alert(response.responseText);
                     },
                     failure: function (response) {
                         alert(response.responseText);
